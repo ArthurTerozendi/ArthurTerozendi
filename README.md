@@ -1,16 +1,17 @@
-### Hi there 👋
+# ArthurTerozendi
+ 
+<table style="rules:none">
+<tr>
+<td>
+ 
+ <img alt="Mateus's github stats" src="https://github-readme-stats.vercel.app/api?username=ArthurTerozendi&hide_border=true&show_icons=true&theme=vue&locale=en"/>
 
-<!--
-**ArthurTerozendi/ArthurTerozendi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</td>
 
-Here are some ideas to get you started:
+<td>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurTerozendi&layout=compact&theme=vue&hide_border=true"/>
+
+</td>
+</tr>
+</table>
